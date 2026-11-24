@@ -1,0 +1,14 @@
+{
+  "name": "com.atthree.health",
+  "version": "0.1.0",
+  "displayName": "Health & Damage",
+  "description": "Health and damage system for Unity 6: damage types, resistances, armor, invulnerability frames, regeneration, hitboxes, contact and impact damage, world-space health bars, death and revive events.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Atthree",
+    "url": "https://github.com/Atthree"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {}
+}
