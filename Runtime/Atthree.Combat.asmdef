@@ -1,7 +1,9 @@
 {
     "name": "Atthree.Combat",
     "rootNamespace": "Atthree.Combat",
-    "references": [],
+    "references": [
+        "UnityEngine.UI"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

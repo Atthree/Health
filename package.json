@@ -9,6 +9,36 @@
     "url": "https://github.com/Atthree"
   },
   "license": "MIT",
-  "keywords": [],
-  "dependencies": {}
+  "keywords": [
+    "unity",
+    "unity3d",
+    "unity6",
+    "upm",
+    "upm-package",
+    "unity-package",
+    "gamedev",
+    "csharp",
+    "health-system",
+    "damage-system",
+    "combat",
+    "hitbox",
+    "damage-types",
+    "resistances",
+    "armor",
+    "invincibility-frames",
+    "health-bar",
+    "explosion",
+    "projectile"
+  ],
+  "dependencies": {
+    "com.unity.ugui": "2.0.0",
+    "com.unity.modules.physics": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "A self-building demo: turret, projectiles, targets with health bars, resistances, explosions.",
+      "path": "Samples~/Demo"
+    }
+  ]
 }
